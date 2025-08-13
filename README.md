@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sumit19dhama/DSA-Series/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0523-continuous-subarray-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Sumit19dhama/DSA-Series/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -302,9 +305,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit19dhama/DSA-Series/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/0402-remove-k-digits) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
