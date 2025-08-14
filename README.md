@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1764-maximum-repeating-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1764-maximum-repeating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3636-check-balanced-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/3636-check-balanced-string) |
