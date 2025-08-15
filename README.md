@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sumit19dhama/DSA-Series/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0347-top-k-frequent-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0263-ugly-number) |
