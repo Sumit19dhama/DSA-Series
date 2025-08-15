@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 ## Rolling Hash
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Sumit19dhama/DSA-Series/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Sumit19dhama/DSA-Series/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sumit19dhama/DSA-Series/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
 ## Tree
 |  |
