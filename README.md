@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
+| [1448-maximum-69-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/1448-maximum-69-number) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit19dhama/DSA-Series/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sumit19dhama/DSA-Series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1448-maximum-69-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Counting Sort
