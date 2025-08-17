@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
+| [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1168-duplicate-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/1168-duplicate-zeros) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
+| [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
+| [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 ## Rolling Hash
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
+| [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
 | [1448-maximum-69-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/1448-maximum-69-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
