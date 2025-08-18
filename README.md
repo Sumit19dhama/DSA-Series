@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Sumit19dhama/DSA-Series/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit19dhama/DSA-Series/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0275-h-index-ii) |
 | [0611-valid-triangle-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
