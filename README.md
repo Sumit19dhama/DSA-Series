@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit19dhama/DSA-Series/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1764-maximum-repeating-substring) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
