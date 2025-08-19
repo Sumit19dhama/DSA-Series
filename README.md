@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit19dhama/DSA-Series/tree/master/0380-insert-delete-getrandom-o1) |
+| [0413-arithmetic-slices](https://github.com/Sumit19dhama/DSA-Series/tree/master/0413-arithmetic-slices) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sumit19dhama/DSA-Series/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Sumit19dhama/DSA-Series/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sumit19dhama/DSA-Series/tree/master/0279-perfect-squares) |
+| [0413-arithmetic-slices](https://github.com/Sumit19dhama/DSA-Series/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0678-valid-parenthesis-string) |
