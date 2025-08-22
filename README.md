@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
