@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3265-maximum-good-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/3265-maximum-good-subarray-sum) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
+| [3265-maximum-good-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/3265-maximum-good-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3265-maximum-good-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/3265-maximum-good-subarray-sum) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
