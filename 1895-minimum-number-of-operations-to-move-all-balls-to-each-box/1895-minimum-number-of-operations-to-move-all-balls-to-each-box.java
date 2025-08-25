@@ -3,14 +3,25 @@ class Solution {
         int n = boxes.length();
         int[] answer = new int[n];
 
+        int moves = 0;    
+        int balls = 0;    
         for (int i = 0; i < n; i++) {
-            int moves = 0;
-            for (int j = 0; j < n; j++) {
-                if (boxes.charAt(j) == '1') {
-                    moves += Math.abs(i - j);
-                }
+            answer[i] += moves;
+            if (boxes.charAt(i) == '1') {
+                balls++;
             }
-            answer[i] = moves;
+            moves += balls;  
+        }
+
+        moves = 0;
+        balls = 0;
+
+        for (int i = n - 1; i >= 0; i--) {
+            answer[i] += moves;
+            if (boxes.charAt(i) == '1') {
+                balls++;
+            }
+            moves += balls;
         }
 
         return answer;
