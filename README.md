@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
+| [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sumit19dhama/DSA-Series/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0778-reorganize-string) |
+| [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Sumit19dhama/DSA-Series/tree/master/0735-asteroid-collision) |
+| [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/0402-remove-k-digits) |
+| [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 ## Quickselect
 |  |
