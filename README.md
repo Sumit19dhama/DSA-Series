@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/Sumit19dhama/DSA-Series/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2317-count-collisions-on-a-road](https://github.com/Sumit19dhama/DSA-Series/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2317-count-collisions-on-a-road](https://github.com/Sumit19dhama/DSA-Series/tree/master/2317-count-collisions-on-a-road) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/0679-24-game) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
