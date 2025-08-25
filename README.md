@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3931-process-string-with-special-operations-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
+| [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
