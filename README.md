@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit19dhama/DSA-Series/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit19dhama/DSA-Series/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit19dhama/DSA-Series/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
