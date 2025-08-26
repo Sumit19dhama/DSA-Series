@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/Sumit19dhama/DSA-Series/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/Sumit19dhama/DSA-Series/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2887-sort-vowels-in-a-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/Sumit19dhama/DSA-Series/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2615-make-number-of-distinct-characters-equal](https://github.com/Sumit19dhama/DSA-Series/tree/master/2615-make-number-of-distinct-characters-equal) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3534-count-almost-equal-pairs-i) |
 ## Simulation
 |  |
