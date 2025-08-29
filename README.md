@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sumit19dhama/DSA-Series/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit19dhama/DSA-Series/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1764-maximum-repeating-substring) |
+| [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Sumit19dhama/DSA-Series/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting Sort
 |  |
@@ -605,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Sumit19dhama/DSA-Series/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sumit19dhama/DSA-Series/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 <!---LeetCode Topics End-->
