@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
