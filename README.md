@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sumit19dhama/DSA-Series/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit19dhama/DSA-Series/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/Sumit19dhama/DSA-Series/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
+| [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
