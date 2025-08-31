@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
+| [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1168-duplicate-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/1168-duplicate-zeros) |
 | [1206-corporate-flight-bookings](https://github.com/Sumit19dhama/DSA-Series/tree/master/1206-corporate-flight-bookings) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
+| [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/0679-24-game) |
+| [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
+| [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
