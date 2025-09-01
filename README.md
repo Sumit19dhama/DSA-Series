@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumit19dhama/DSA-Series/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sumit19dhama/DSA-Series/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0778-reorganize-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Sumit19dhama/DSA-Series/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
