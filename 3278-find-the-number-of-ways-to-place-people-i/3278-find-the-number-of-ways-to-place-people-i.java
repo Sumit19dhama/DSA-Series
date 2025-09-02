@@ -11,7 +11,7 @@ class Solution {
                 int bx = points[j][0];
                 int by = points[j][1];
 
-                if (ax <= bx && ay >= by && (ax < bx || ay > by)) {
+                if (ax <= bx && ay >= by) {
                     boolean valid = true;
                     for (int k = 0; k < n; k++) {
                         if (k == i || k == j) continue;
