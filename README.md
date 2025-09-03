@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sumit19dhama/DSA-Series/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Sumit19dhama/DSA-Series/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sumit19dhama/DSA-Series/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sumit19dhama/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sumit19dhama/DSA-Series/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sumit19dhama/DSA-Series/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sumit19dhama/DSA-Series/tree/master/0231-power-of-two) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit19dhama/DSA-Series/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sumit19dhama/DSA-Series/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
 | [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
