@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sumit19dhama/DSA-Series/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3265-maximum-good-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/3265-maximum-good-subarray-sum) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2887-sort-vowels-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3534-count-almost-equal-pairs-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sumit19dhama/DSA-Series/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3534-count-almost-equal-pairs-i) |
@@ -645,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
