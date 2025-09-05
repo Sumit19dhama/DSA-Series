@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sumit19dhama/DSA-Series/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sumit19dhama/DSA-Series/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0347-top-k-frequent-elements) |
