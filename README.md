@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Rolling Hash
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Sumit19dhama/DSA-Series/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 ## Geometry
 |  |
