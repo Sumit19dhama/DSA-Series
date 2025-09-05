@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Sumit19dhama/DSA-Series/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0275-h-index-ii) |
+| [0322-coin-change](https://github.com/Sumit19dhama/DSA-Series/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit19dhama/DSA-Series/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/Sumit19dhama/DSA-Series/tree/master/0413-arithmetic-slices) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumit19dhama/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sumit19dhama/DSA-Series/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Sumit19dhama/DSA-Series/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Sumit19dhama/DSA-Series/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sumit19dhama/DSA-Series/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Sumit19dhama/DSA-Series/tree/master/0322-coin-change) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
