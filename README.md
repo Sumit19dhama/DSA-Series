@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumit19dhama/DSA-Series/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3643-zero-array-transformation-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3643-zero-array-transformation-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit19dhama/DSA-Series/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit19dhama/DSA-Series/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sumit19dhama/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [1206-corporate-flight-bookings](https://github.com/Sumit19dhama/DSA-Series/tree/master/1206-corporate-flight-bookings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sumit19dhama/DSA-Series/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/2249-count-the-hidden-sequences) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sumit19dhama/DSA-Series/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
