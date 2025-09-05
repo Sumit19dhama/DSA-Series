@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/2249-count-the-hidden-sequences) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Sumit19dhama/DSA-Series/tree/master/0279-perfect-squares) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [2183-minimum-operations-to-convert-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
