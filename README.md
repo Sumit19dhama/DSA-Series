@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit19dhama/DSA-Series/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit19dhama/DSA-Series/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sumit19dhama/DSA-Series/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-groups-of-special-equivalent-strings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit19dhama/DSA-Series/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumit19dhama/DSA-Series/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1764-maximum-repeating-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1764-maximum-repeating-substring) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Sumit19dhama/DSA-Series/tree/master/0940-fruit-into-baskets) |
 | [0994-prison-cells-after-n-days](https://github.com/Sumit19dhama/DSA-Series/tree/master/0994-prison-cells-after-n-days) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sumit19dhama/DSA-Series/tree/master/1281-can-make-palindrome-from-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit19dhama/DSA-Series/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Sumit19dhama/DSA-Series/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
