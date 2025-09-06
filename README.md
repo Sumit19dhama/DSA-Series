@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumit19dhama/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sumit19dhama/DSA-Series/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sumit19dhama/DSA-Series/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Sumit19dhama/DSA-Series/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit19dhama/DSA-Series/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sumit19dhama/DSA-Series/tree/master/0134-gas-station) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Sumit19dhama/DSA-Series/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Sumit19dhama/DSA-Series/tree/master/0274-h-index) |
