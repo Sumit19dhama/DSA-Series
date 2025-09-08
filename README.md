@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sumit19dhama/DSA-Series/tree/master/1777-determine-if-two-strings-are-close) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Sumit19dhama/DSA-Series/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2887-sort-vowels-in-a-string) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Sumit19dhama/DSA-Series/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
