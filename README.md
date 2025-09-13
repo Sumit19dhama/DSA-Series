@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sumit19dhama/DSA-Series/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Rolling Hash
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-decode-the-slanted-ciphertext](https://github.com/Sumit19dhama/DSA-Series/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2317-count-collisions-on-a-road](https://github.com/Sumit19dhama/DSA-Series/tree/master/2317-count-collisions-on-a-road) |
 | [2886-faulty-keyboard](https://github.com/Sumit19dhama/DSA-Series/tree/master/2886-faulty-keyboard) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3931-process-string-with-special-operations-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3939-process-string-with-special-operations-ii) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Sumit19dhama/DSA-Series/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit19dhama/DSA-Series/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sumit19dhama/DSA-Series/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sumit19dhama/DSA-Series/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0394-decode-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
