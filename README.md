@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sumit19dhama/DSA-Series/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sumit19dhama/DSA-Series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Sumit19dhama/DSA-Series/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Sumit19dhama/DSA-Series/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sumit19dhama/DSA-Series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0741-cherry-pickup](https://github.com/Sumit19dhama/DSA-Series/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Sumit19dhama/DSA-Series/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sumit19dhama/DSA-Series/tree/master/0867-new-21-game) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sumit19dhama/DSA-Series/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sumit19dhama/DSA-Series/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Sumit19dhama/DSA-Series/tree/master/0498-diagonal-traverse) |
+| [0741-cherry-pickup](https://github.com/Sumit19dhama/DSA-Series/tree/master/0741-cherry-pickup) |
 | [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
