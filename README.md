@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit19dhama/DSA-Series/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3265-maximum-good-subarray-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/3265-maximum-good-subarray-sum) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3534-count-almost-equal-pairs-i) |
+| [3678-design-task-manager](https://github.com/Sumit19dhama/DSA-Series/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
+| [3678-design-task-manager](https://github.com/Sumit19dhama/DSA-Series/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sumit19dhama/DSA-Series/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sumit19dhama/DSA-Series/tree/master/0380-insert-delete-getrandom-o1) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
+| [3678-design-task-manager](https://github.com/Sumit19dhama/DSA-Series/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sumit19dhama/DSA-Series/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Sumit19dhama/DSA-Series/tree/master/2023-design-movie-rental-system) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
+| [3678-design-task-manager](https://github.com/Sumit19dhama/DSA-Series/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
