@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3791-fruits-into-baskets-iii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/Sumit19dhama/DSA-Series/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sumit19dhama/DSA-Series/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Sumit19dhama/DSA-Series/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit19dhama/DSA-Series/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Segment Tree
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sumit19dhama/DSA-Series/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
 |  |
 | ------- |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Game Theory
 |  |
 | ------- |
@@ -722,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
