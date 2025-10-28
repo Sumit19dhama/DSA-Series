@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/2183-minimum-operations-to-convert-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sumit19dhama/DSA-Series/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit19dhama/DSA-Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/Sumit19dhama/DSA-Series/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Sumit19dhama/DSA-Series/tree/master/2197-decode-the-slanted-ciphertext) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit19dhama/DSA-Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2317-count-collisions-on-a-road](https://github.com/Sumit19dhama/DSA-Series/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sumit19dhama/DSA-Series/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sumit19dhama/DSA-Series/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Sumit19dhama/DSA-Series/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit19dhama/DSA-Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit19dhama/DSA-Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumit19dhama/DSA-Series/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
