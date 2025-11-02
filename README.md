@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Sumit19dhama/DSA-Series/tree/master/2249-count-the-hidden-sequences) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Sumit19dhama/DSA-Series/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Sumit19dhama/DSA-Series/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2476-check-distances-between-same-letters](https://github.com/Sumit19dhama/DSA-Series/tree/master/2476-check-distances-between-same-letters) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Sumit19dhama/DSA-Series/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Sumit19dhama/DSA-Series/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2317-count-collisions-on-a-road](https://github.com/Sumit19dhama/DSA-Series/tree/master/2317-count-collisions-on-a-road) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Sumit19dhama/DSA-Series/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2886-faulty-keyboard](https://github.com/Sumit19dhama/DSA-Series/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3790-fruits-into-baskets-ii) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Sumit19dhama/DSA-Series/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sumit19dhama/DSA-Series/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sumit19dhama/DSA-Series/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Sumit19dhama/DSA-Series/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumit19dhama/DSA-Series/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sumit19dhama/DSA-Series/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
