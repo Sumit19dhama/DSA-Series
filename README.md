@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sumit19dhama/DSA-Series/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sumit19dhama/DSA-Series/tree/master/2685-first-completely-painted-row-or-column) |
 | [2725-mice-and-cheese](https://github.com/Sumit19dhama/DSA-Series/tree/master/2725-mice-and-cheese) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sumit19dhama/DSA-Series/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2892-check-if-array-is-good](https://github.com/Sumit19dhama/DSA-Series/tree/master/2892-check-if-array-is-good) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Sumit19dhama/DSA-Series/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sumit19dhama/DSA-Series/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sumit19dhama/DSA-Series/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2850-construct-the-longest-new-string](https://github.com/Sumit19dhama/DSA-Series/tree/master/2850-construct-the-longest-new-string) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sumit19dhama/DSA-Series/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sumit19dhama/DSA-Series/tree/master/0204-count-primes) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sumit19dhama/DSA-Series/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sumit19dhama/DSA-Series/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sumit19dhama/DSA-Series/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumit19dhama/DSA-Series/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
