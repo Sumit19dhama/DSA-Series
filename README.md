@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sumit19dhama/DSA-Series/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Sumit19dhama/DSA-Series/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Sumit19dhama/DSA-Series/tree/master/0741-cherry-pickup) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit19dhama/DSA-Series/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sumit19dhama/DSA-Series/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Sumit19dhama/DSA-Series/tree/master/0837-most-common-word) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sumit19dhama/DSA-Series/tree/master/0275-h-index-ii) |
 | [0611-valid-triangle-number](https://github.com/Sumit19dhama/DSA-Series/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Sumit19dhama/DSA-Series/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sumit19dhama/DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1307-ugly-number-iii](https://github.com/Sumit19dhama/DSA-Series/tree/master/1307-ugly-number-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sumit19dhama/DSA-Series/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sumit19dhama/DSA-Series/tree/master/1612-avoid-flood-in-the-city) |
