@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0110-balanced-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sumit19dhama/DSA-Series/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/Sumit19dhama/DSA-Series/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -639,10 +640,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0110-balanced-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0110-balanced-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sumit19dhama/DSA-Series/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Probability and Statistics
 |  |
